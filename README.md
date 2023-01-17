@@ -1,1 +1,1 @@
-# django-password
+# django - generation - password
